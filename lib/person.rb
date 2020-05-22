@@ -1,6 +1,6 @@
-class Person 
+# class Person 
 
-  def  
+#   def  
 
 
-end
+# end
